@@ -1,0 +1,4 @@
+com\ebank\TestCases\TC_LoginTest_001.class
+com\ebank\TestCases\BaseClass.class
+com\ebank\PageObjects\LoginPage.class
+com\ebank\Utilities\readConfig.class

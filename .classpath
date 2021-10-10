@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Configfiles"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Projects n Softwares/Automation_Workspace/EBank_v1_Demo/jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

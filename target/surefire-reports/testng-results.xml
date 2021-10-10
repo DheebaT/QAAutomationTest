@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EBank_v1_Demo" duration-ms="25111" started-at="2021-10-08T23:50:02 IST" finished-at="2021-10-08T23:50:27 IST">
+    <groups>
+    </groups>
+    <test name="Banking Test" duration-ms="25111" started-at="2021-10-08T23:50:02 IST" finished-at="2021-10-08T23:50:27 IST">
+      <class name="com.ebank.TestCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="preSetUp()[pri:0, instance:com.ebank.TestCases.TC_LoginTest_001@1ce92674]" name="preSetUp" is-config="true" duration-ms="107" started-at="2021-10-08T23:50:02 IST" finished-at="2021-10-08T23:50:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetUp -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ebank.TestCases.TC_LoginTest_001@1ce92674]" name="setup" is-config="true" duration-ms="8991" started-at="2021-10-08T23:50:02 IST" finished-at="2021-10-08T23:50:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.ebank.TestCases.TC_LoginTest_001@1ce92674]" name="loginTest" duration-ms="15423" started-at="2021-10-08T23:50:11 IST" finished-at="2021-10-08T23:50:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ebank.TestCases.TC_LoginTest_001@1ce92674]" name="tearDown" is-config="true" duration-ms="666" started-at="2021-10-08T23:50:26 IST" finished-at="2021-10-08T23:50:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=TC_LoginTest_001.loginTest()[pri:0, instance:com.ebank.TestCases.TC_LoginTest_001@1ce92674] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.ebank.TestCases.TC_LoginTest_001@1ce92674]" name="endReport" is-config="true" duration-ms="369" started-at="2021-10-08T23:50:27 IST" finished-at="2021-10-08T23:50:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.ebank.TestCases.TC_LoginTest_001 -->
+    </test> <!-- Banking Test -->
+  </suite> <!-- EBank_v1_Demo -->
+</testng-results>
