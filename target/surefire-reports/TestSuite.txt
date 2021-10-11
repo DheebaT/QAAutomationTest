@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 50.849 sec <<< FAILURE! - in TestSuite
-VerifyTitle(com.ebank.TestCases.TC_LoginTest_001)  Time elapsed: 3.067 sec  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 44.72 sec <<< FAILURE! - in TestSuite
+VerifyTitle(com.ebank.TestCases.TC_LoginTest_001)  Time elapsed: 3.04 sec  <<< FAILURE!
 java.lang.AssertionError: expected [Guru99] but found [Guru99 Bank Home Page]
 	at org.testng.Assert.fail(Assert.java:97)
 	at org.testng.Assert.assertEqualsImpl(Assert.java:136)

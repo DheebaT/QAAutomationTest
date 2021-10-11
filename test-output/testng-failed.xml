@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [EBank_v1_Demo]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Banking Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ebank.TestCases.TC_LoginTest_001">
+        <methods>
+          <include name="setup"/>
+          <include name="preSetUp"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="VerifyTitle"/>
+        </methods>
+      </class> <!-- com.ebank.TestCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- Banking Test(failed) -->
+</suite> <!-- Failed suite [EBank_v1_Demo] -->

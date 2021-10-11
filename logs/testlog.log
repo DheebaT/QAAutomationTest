@@ -178,4 +178,21 @@
  2021-10-11 13:07:09,681 - com.ebank.TestCases.BaseClass - INFO - Url is launched
  2021-10-11 13:07:09,820 - com.ebank.TestCases.BaseClass - INFO - Browser is maximized
  2021-10-11 13:07:12,835 - com.ebank.TestCases.BaseClass - INFO - To Skip
+ 2021-10-11 15:09:25,669 - com.ebank.TestCases.BaseClass - INFO - Open the driver
+ 2021-10-11 15:09:28,407 - com.ebank.TestCases.BaseClass - INFO - Browser is launched
+ 2021-10-11 15:09:33,139 - com.ebank.TestCases.BaseClass - INFO - Url is launched
+ 2021-10-11 15:09:33,274 - com.ebank.TestCases.BaseClass - INFO - Browser is maximized
+ 2021-10-11 15:09:33,350 - com.ebank.TestCases.BaseClass - INFO - Browser is opened
+ 2021-10-11 15:09:36,603 - com.ebank.TestCases.BaseClass - INFO - Username is entered
+ 2021-10-11 15:09:36,675 - com.ebank.TestCases.BaseClass - INFO - Password is entered
+ 2021-10-11 15:09:40,643 - com.ebank.TestCases.BaseClass - INFO - Clicked on SUbmit
+ 2021-10-11 15:09:44,486 - com.ebank.TestCases.BaseClass - INFO - Open the driver
+ 2021-10-11 15:09:46,416 - com.ebank.TestCases.BaseClass - INFO - Browser is launched
+ 2021-10-11 15:11:07,258 - com.ebank.TestCases.BaseClass - INFO - Url is launched
+ 2021-10-11 15:11:07,390 - com.ebank.TestCases.BaseClass - INFO - Browser is maximized
+ 2021-10-11 15:11:13,159 - com.ebank.TestCases.BaseClass - INFO - Open the driver
+ 2021-10-11 15:11:15,222 - com.ebank.TestCases.BaseClass - INFO - Browser is launched
+ 2021-10-11 15:12:23,530 - com.ebank.TestCases.BaseClass - INFO - Url is launched
+ 2021-10-11 15:12:23,653 - com.ebank.TestCases.BaseClass - INFO - Browser is maximized
+ 2021-10-11 15:12:26,667 - com.ebank.TestCases.BaseClass - INFO - To Skip
  
