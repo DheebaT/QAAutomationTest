@@ -44,10 +44,10 @@ public class BaseClass {
 	@BeforeSuite
 	public void preSetUp()
 	{
-		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
-		String repName="Test-Report-"+timeStamp+".html";
+		//String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
+		//String repName="Test-Report-"+timeStamp+".html";
 
-		htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+ "/extent-reports/"+repName);//specify location of the report
+		htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+ "/extent-reports/Test-Report.html");//specify location of the report
 		htmlReporter.config().setDocumentTitle("Automation Report"); //Title of the report
 		htmlReporter.config().setReportName("Functional Test Report");
 		htmlReporter.config().setTheme(Theme.DARK);

@@ -1,4 +1,13 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.144 sec - in TestSuite
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 50.849 sec <<< FAILURE! - in TestSuite
+VerifyTitle(com.ebank.TestCases.TC_LoginTest_001)  Time elapsed: 3.067 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Guru99] but found [Guru99 Bank Home Page]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at com.ebank.TestCases.TC_LoginTest_001.VerifyTitle(TC_LoginTest_001.java:52)
+
